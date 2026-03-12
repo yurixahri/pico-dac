@@ -1,6 +1,6 @@
 [submodule "tinyusb"]
 	path = tinyusb
-	url = ./tinyusb
+	url = https://github.com/hathach/tinyusb
 [submodule "pico_audio_i2s_32b"]
 	path = pico_audio_i2s_32b
-	url = ./pico_audio_i2s_32b
+	url = https://github.com/elehobica/pico_audio_i2s_32b
