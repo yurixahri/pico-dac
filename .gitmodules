@@ -1,0 +1,6 @@
+[submodule "tinyusb"]
+	path = tinyusb
+	url = ./tinyusb
+[submodule "pico_audio_i2s_32b"]
+	path = pico_audio_i2s_32b
+	url = ./pico_audio_i2s_32b
